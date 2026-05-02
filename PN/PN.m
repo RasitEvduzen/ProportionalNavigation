@@ -1,6 +1,6 @@
 clc; clear all; close all;
-% Proportional Navigation  3D Basic PN (Fundamental Guidance Law)
-% Guidance: a_c = N * Vc * |Omega|,  direction perp. to missile velocity
+% Proportional Navigation  3D Basic PN
+% Guidance: a_c = N * Vc * |Omega|
 % Written By: Rasit Evduzen
 % 28-Apr-2026
 
